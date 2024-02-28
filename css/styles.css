@@ -1,0 +1,56 @@
+/* Write a CSS rule to style the body tag to modify the font family and font size properties. */
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Write a CSS rule to style the header tag to modify the background color property. */
+header {
+  background-color: rgb(235, 108, 32);
+}
+
+/* Write a CSS rule to style the nav tag to modify the background color property. */
+nav {
+  background-color: rgb(0, 99, 173);
+}
+
+/* Write a CSS rule to style the main tag to modify the background color and font size property */
+main {
+  background-color: rgb(33, 172, 74);
+  font-size: 16px;
+}
+
+/* Write a CSS rule to style the footer tag to modify the background color property. */
+footer {
+  background-color: rgb(33, 172, 74);
+}
+
+/* Write a CSS rule to style the li tag to modify the display and width properties.   */
+ul {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+li {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+a {
+  text-decoration: underline;
+  color: #c7cdff;
+}
+
+/* Write a CSS rule to style the h1 tag to modify the text alignment, font family, and color  properties.  */
+h1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  color: #fff;
+}
+
+/* Write a CSS rule to style the p tag to modify the line height property. */
+p {
+  line-height: normal;
+}
